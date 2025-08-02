@@ -1,4 +1,4 @@
-[![Master Head] (https://www.freepik.com/premium-ai-image/futuristic-digital-network-visualization-with-glowing-nodes-lines-representing-data-connections-technology-modern-communication_353545962.htm#fromView=search&page=1&position=46&uuid=b1692285-f5f2-4231-8bc7-cf6d7f3a04bb&query=Header+Banner+for+IT)
+
 <h1 align="center">Hi 👋, I'm Kriti Khadka Chhetri</h1>
 <h3 align="center">"Web designing is something I'm truly passionate about."</h3>
 https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif
