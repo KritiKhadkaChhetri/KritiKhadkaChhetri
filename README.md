@@ -13,7 +13,7 @@ https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kriti chhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti chhetri" height="30" width="40" /></a>
+<a href="linkedin.com/in/kriti-khadka-chhetri-b08946363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti khadka chhetri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
