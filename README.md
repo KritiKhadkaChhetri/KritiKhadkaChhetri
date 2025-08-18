@@ -5,7 +5,7 @@ https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritikhadkachhetri&label=Profile%20views&color=0e75b6&style=flat" alt="kritikhadkachhetri" /> </p>
 
-- 🔭 I’m currently working on **RFID DOOR LOCK SYSTEM USING ARDUINO**
+- 🔭 I have made a project on  **RFID DOOR LOCK SYSTEM USING ARDUINO**
 
 - 🌱 I’m currently learning **python.**
 
