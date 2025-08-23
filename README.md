@@ -7,8 +7,6 @@ https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif
 
 - 🔭 I have made a project on  **RFID DOOR LOCK SYSTEM USING ARDUINO**
 
-- 🌱 I’m currently learning **python.**
-
 - 📫 How to reach me **chhetrikriti06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
